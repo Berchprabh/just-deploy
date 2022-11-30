@@ -1,1 +1,1 @@
-web: gunicorn 'just_deploy_root.wsgi' --log file-
+web: gunicorn 'just_deploy_root.wsgi' 
