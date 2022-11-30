@@ -1,1 +1,1 @@
-web: gunicorn 'just_deploy_root.wsgi' 
+web: gunicorn 'just_deploy.wsgi' 
